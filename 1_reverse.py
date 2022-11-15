@@ -1,2 +1,5 @@
-str ="Edyoda"
-print(str[::-1])
+name="Edyoda"
+rev =" "
+for i in name:
+    rev=i+rev
+    print(rev)
